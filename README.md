@@ -39,4 +39,4 @@ $> git clone https://github.com/KCarriolo/philosophers.git && cd philosophers &&
 
 🧔 **Kevin Carriolo**
 - Github: <a href="https://github.com/KCarriolo" target="_blank">@KCarriolo</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/kevin-carriolo/" target="_blank">@KCarriolo</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/kevin-carriolo/" target="_blank">@Kevin Carriolo</a>
